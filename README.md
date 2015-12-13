@@ -1,0 +1,3 @@
+# AIDLDemo
+用AIDL实现的进程通信
+其中aidlTest是服务端，aidlClient是客户端，不同应用不同进程之间通过Binder来进行通信。这是一个模拟的例子，可以通过log查看结果。
